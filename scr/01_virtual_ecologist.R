@@ -5,10 +5,10 @@
 #
 # Author: David March, PhD
 # Email: dmarch@socib.es
-# Website: https://github.com/dmarch/
+# Website: https://github.com/dmarch/r-marine
 # Last revision: 24-March-2015
 #
-# Keywords: sampling design, simulation, distributions, GIS, map, vector
+# Keywords: R, marine, data, sampling design, simulation, distributions, GIS, map, vector
 #
 # Copyright 2015 SOCIB
 # The script is distributed under the terms of the GNUv3 General Public License
