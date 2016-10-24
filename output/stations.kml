@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>Sampling stations</name>
+<description><![CDATA[]]></description>
+
+<Style id="style1">
+  <IconStyle>
+    <Icon>
+      <href>http://maps.google.com/mapfiles/ms/micons/blue.png</href>
+    </Icon>
+  </IconStyle>
+</Style>
+
+<Placemark>
+  <name>site 1</name>
+  <description><![CDATA[<b>Station ID:</b> 1 <br><b>Longitude:</b> 2.57515504024923 <br><b>Latitude:</b> 38.599988959264 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 44.3952435344779]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.57515504024923,38.599988959264
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 2</name>
+  <description><![CDATA[<b>Station ID:</b> 2 <br><b>Longitude:</b> 3.57661027088761 <br><b>Latitude:</b> 38.3328235403169 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.57661027088761,38.3328235403169
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 3</name>
+  <description><![CDATA[<b>Station ID:</b> 3 <br><b>Longitude:</b> 2.8179538436234 <br><b>Latitude:</b> 38.4886130336672 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.8179538436234,38.4886130336672
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 4</name>
+  <description><![CDATA[<b>Station ID:</b> 4 <br><b>Longitude:</b> 3.76603480800986 <br><b>Latitude:</b> 38.9544738274999 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.76603480800986,38.9544738274999
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 5</name>
+  <description><![CDATA[<b>Station ID:</b> 5 <br><b>Longitude:</b> 3.88093456858769 <br><b>Latitude:</b> 38.4829023971688 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.88093456858769,38.4829023971688
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 6</name>
+  <description><![CDATA[<b>Station ID:</b> 6 <br><b>Longitude:</b> 2.09111299877986 <br><b>Latitude:</b> 38.8903502221219 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.09111299877986,38.8903502221219
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 7</name>
+  <description><![CDATA[<b>Station ID:</b> 7 <br><b>Longitude:</b> 3.05621097609401 <br><b>Latitude:</b> 38.9144381869119 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 47.6982251051672]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.05621097609401,38.9144381869119
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 8</name>
+  <description><![CDATA[<b>Station ID:</b> 8 <br><b>Longitude:</b> 3.78483808878809 <br><b>Latitude:</b> 38.608734982321 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 65.5870831414912]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.78483808878809,38.608734982321
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 9</name>
+  <description><![CDATA[<b>Station ID:</b> 9 <br><b>Longitude:</b> 3.10287002893165 <br><b>Latitude:</b> 38.4106897765305 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.10287002893165,38.4106897765305
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 10</name>
+  <description><![CDATA[<b>Station ID:</b> 10 <br><b>Longitude:</b> 2.91322947060689 <br><b>Latitude:</b> 38.1470946909394 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 50.7050839142458]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.91322947060689,38.1470946909394
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 11</name>
+  <description><![CDATA[<b>Station ID:</b> 11 <br><b>Longitude:</b> 3.91366669069976 <br><b>Latitude:</b> 38.93529980327 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.91366669069976,38.93529980327
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 12</name>
+  <description><![CDATA[<b>Station ID:</b> 12 <br><b>Longitude:</b> 2.90666831238195 <br><b>Latitude:</b> 38.3012288999744 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 51.2928773516095]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.90666831238195,38.3012288999744
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 13</name>
+  <description><![CDATA[<b>Station ID:</b> 13 <br><b>Longitude:</b> 3.35514127090573 <br><b>Latitude:</b> 38.0607205715496 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 67.1506498688328]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.35514127090573,38.0607205715496
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 14</name>
+  <description><![CDATA[<b>Station ID:</b> 14 <br><b>Longitude:</b> 3.14526680391282 <br><b>Latitude:</b> 38.9477269400377 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.14526680391282,38.9477269400377
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 15</name>
+  <description><![CDATA[<b>Station ID:</b> 15 <br><b>Longitude:</b> 2.20584936533123 <br><b>Latitude:</b> 38.7205962734297 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 54.609162059892]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.20584936533123,38.7205962734297
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 16</name>
+  <description><![CDATA[<b>Station ID:</b> 16 <br><b>Longitude:</b> 3.79964994080365 <br><b>Latitude:</b> 38.1422942955978 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.79964994080365,38.1422942955978
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 17</name>
+  <description><![CDATA[<b>Station ID:</b> 17 <br><b>Longitude:</b> 2.49217546870932 <br><b>Latitude:</b> 38.5492846560664 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 37.3493876539347]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.49217546870932,38.5492846560664
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 18</name>
+  <description><![CDATA[<b>Station ID:</b> 18 <br><b>Longitude:</b> 2.08411906706169 <br><b>Latitude:</b> 38.9540912385564 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 43.1314714810647]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.08411906706169,38.9540912385564
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 19</name>
+  <description><![CDATA[<b>Station ID:</b> 19 <br><b>Longitude:</b> 2.6558414385654 <br><b>Latitude:</b> 38.5854833531193 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 45.5433802990004]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.6558414385654,38.5854833531193
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 20</name>
+  <description><![CDATA[<b>Station ID:</b> 20 <br><b>Longitude:</b> 3.90900729829445 <br><b>Latitude:</b> 38.4045102817472 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 62.2408179743946]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.90900729829445,38.4045102817472
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 21</name>
+  <description><![CDATA[<b>Station ID:</b> 21 <br><b>Longitude:</b> 3.77907863212749 <br><b>Latitude:</b> 38.6478934793267 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 53.5981382705736]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.77907863212749,38.6478934793267
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 22</name>
+  <description><![CDATA[<b>Station ID:</b> 22 <br><b>Longitude:</b> 3.3856068123132 <br><b>Latitude:</b> 38.3198206170928 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 54.0077145059405]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.3856068123132,38.3198206170928
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 23</name>
+  <description><![CDATA[<b>Station ID:</b> 23 <br><b>Longitude:</b> 3.28101362753659 <br><b>Latitude:</b> 38.3077200108673 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 51.1068271594512]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.28101362753659,38.3077200108673
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 24</name>
+  <description><![CDATA[<b>Station ID:</b> 24 <br><b>Longitude:</b> 3.98853955324739 <br><b>Latitude:</b> 38.2197676312644 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 44.4415886524593]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.98853955324739,38.2197676312644
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 25</name>
+  <description><![CDATA[<b>Station ID:</b> 25 <br><b>Longitude:</b> 3.31141159823164 <br><b>Latitude:</b> 38.3694888658356 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 67.8691313680308]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.31141159823164,38.3694888658356
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 26</name>
+  <description><![CDATA[<b>Station ID:</b> 26 <br><b>Longitude:</b> 3.41706093633547 <br><b>Latitude:</b> 38.9842192034703 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.41706093633547,38.9842192034703
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 27</name>
+  <description><![CDATA[<b>Station ID:</b> 27 <br><b>Longitude:</b> 3.08813204942271 <br><b>Latitude:</b> 38.1542023008224 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 54.9785047822924]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.08813204942271,38.1542023008224
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 28</name>
+  <description><![CDATA[<b>Station ID:</b> 28 <br><b>Longitude:</b> 3.18828404089436 <br><b>Latitude:</b> 38.0910439998843 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.18828404089436,38.0910439998843
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 29</name>
+  <description><![CDATA[<b>Station ID:</b> 29 <br><b>Longitude:</b> 2.57831947458908 <br><b>Latitude:</b> 38.141906907782 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.57831947458908,38.141906907782
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 30</name>
+  <description><![CDATA[<b>Station ID:</b> 30 <br><b>Longitude:</b> 2.29422729462385 <br><b>Latitude:</b> 38.6900071015116 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 30.3338284337036]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.29422729462385,38.6900071015116
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 31</name>
+  <description><![CDATA[<b>Station ID:</b> 31 <br><b>Longitude:</b> 3.92604846507311 <br><b>Latitude:</b> 38.6192564833909 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 57.0135590156369]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.92604846507311,38.6192564833909
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 32</name>
+  <description><![CDATA[<b>Station ID:</b> 32 <br><b>Longitude:</b> 3.80459809023887 <br><b>Latitude:</b> 38.8913941171486 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 45.2720859227207]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.80459809023887,38.8913941171486
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 33</name>
+  <description><![CDATA[<b>Station ID:</b> 33 <br><b>Longitude:</b> 3.38141055684537 <br><b>Latitude:</b> 38.6729990926106 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 39.3217629401315]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.38141055684537,38.6729990926106
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 34</name>
+  <description><![CDATA[<b>Station ID:</b> 34 <br><b>Longitude:</b> 3.59093483537436 <br><b>Latitude:</b> 38.7370777379256 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 47.8202508534171]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.59093483537436,38.7370777379256
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 35</name>
+  <description><![CDATA[<b>Station ID:</b> 35 <br><b>Longitude:</b> 2.0492273690179 <br><b>Latitude:</b> 38.5211357257795 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 39.7399555169276]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.0492273690179,38.5211357257795
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 36</name>
+  <description><![CDATA[<b>Station ID:</b> 36 <br><b>Longitude:</b> 2.95559194218367 <br><b>Latitude:</b> 38.6598384496756 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.95559194218367,38.6598384496756
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 37</name>
+  <description><![CDATA[<b>Station ID:</b> 37 <br><b>Longitude:</b> 3.51691907504573 <br><b>Latitude:</b> 38.8218054601457 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 42.7110877070886]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.51691907504573,38.8218054601457
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 38</name>
+  <description><![CDATA[<b>Station ID:</b> 38 <br><b>Longitude:</b> 2.43281587166712 <br><b>Latitude:</b> 38.7862815517001 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 43.7496073215074]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.43281587166712,38.7862815517001
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 39</name>
+  <description><![CDATA[<b>Station ID:</b> 39 <br><b>Longitude:</b> 2.6363620152697 <br><b>Latitude:</b> 38.9798219173681 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.6363620152697,38.9798219173681
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 40</name>
+  <description><![CDATA[<b>Station ID:</b> 40 <br><b>Longitude:</b> 2.46325157070532 <br><b>Latitude:</b> 38.4394315362442 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.46325157070532,38.4394315362442
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 41</name>
+  <description><![CDATA[<b>Station ID:</b> 41 <br><b>Longitude:</b> 2.28560004476458 <br><b>Latitude:</b> 38.3117022020742 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 33.1330668925759]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.28560004476458,38.3117022020742
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 42</name>
+  <description><![CDATA[<b>Station ID:</b> 42 <br><b>Longitude:</b> 2.82909267162904 <br><b>Latitude:</b> 38.4094749526121 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.82909267162904,38.4094749526121
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 43</name>
+  <description><![CDATA[<b>Station ID:</b> 43 <br><b>Longitude:</b> 2.82744865259156 <br><b>Latitude:</b> 38.0104671118315 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 58.3778704449452]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.82744865259156,38.0104671118315
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 44</name>
+  <description><![CDATA[<b>Station ID:</b> 44 <br><b>Longitude:</b> 2.73769090184942 <br><b>Latitude:</b> 38.1838495240081 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.73769090184942,38.1838495240081
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 45</name>
+  <description><![CDATA[<b>Station ID:</b> 45 <br><b>Longitude:</b> 2.30488949548453 <br><b>Latitude:</b> 38.842729318887 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 51.5337311783652]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.30488949548453,38.842729318887
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 46</name>
+  <description><![CDATA[<b>Station ID:</b> 46 <br><b>Longitude:</b> 2.27761212689802 <br><b>Latitude:</b> 38.2311617820524 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 38.6186306298805]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.27761212689802,38.2311617820524
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 47</name>
+  <description><![CDATA[<b>Station ID:</b> 47 <br><b>Longitude:</b> 2.4660681989044 <br><b>Latitude:</b> 38.2390999556519 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.4660681989044,38.2390999556519
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 48</name>
+  <description><![CDATA[<b>Station ID:</b> 48 <br><b>Longitude:</b> 2.93192490050569 <br><b>Latitude:</b> 38.0766911653336 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 62.5381492106993]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.93192490050569,38.0766911653336
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 49</name>
+  <description><![CDATA[<b>Station ID:</b> 49 <br><b>Longitude:</b> 2.53194528073072 <br><b>Latitude:</b> 38.2457236780319 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 54.2646422147681]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.53194528073072,38.2457236780319
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 50</name>
+  <description><![CDATA[<b>Station ID:</b> 50 <br><b>Longitude:</b> 3.71565543068573 <br><b>Latitude:</b> 38.7321352055296 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.71565543068573,38.7321352055296
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 51</name>
+  <description><![CDATA[<b>Station ID:</b> 51 <br><b>Longitude:</b> 2.0916623333469 <br><b>Latitude:</b> 38.8474531651009 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 47.0492851700773]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.0916623333469,38.8474531651009
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 52</name>
+  <description><![CDATA[<b>Station ID:</b> 52 <br><b>Longitude:</b> 2.88440014841035 <br><b>Latitude:</b> 38.4975272670854 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 58.9512566104502]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.88440014841035,38.4975272670854
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 53</name>
+  <description><![CDATA[<b>Station ID:</b> 53 <br><b>Longitude:</b> 3.59784969128668 <br><b>Latitude:</b> 38.3879090298433 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.59784969128668,38.3879090298433
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 54</name>
+  <description><![CDATA[<b>Station ID:</b> 54 <br><b>Longitude:</b> 2.24379851995036 <br><b>Latitude:</b> 38.2464489941485 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 58.7813348753304]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.24379851995036,38.2464489941485
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 55</name>
+  <description><![CDATA[<b>Station ID:</b> 55 <br><b>Longitude:</b> 3.12189596751705 <br><b>Latitude:</b> 38.1110964613035 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 58.2158108163749]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.12189596751705,38.1110964613035
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 56</name>
+  <description><![CDATA[<b>Station ID:</b> 56 <br><b>Longitude:</b> 2.41306277923286 <br><b>Latitude:</b> 38.3899944352452 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 56.8864025410009]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.41306277923286,38.3899944352452
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 57</name>
+  <description><![CDATA[<b>Station ID:</b> 57 <br><b>Longitude:</b> 2.25506330048665 <br><b>Latitude:</b> 38.5719353139866 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 55.5391765353759]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.25506330048665,38.5719353139866
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 58</name>
+  <description><![CDATA[<b>Station ID:</b> 58 <br><b>Longitude:</b> 3.50661572860554 <br><b>Latitude:</b> 38.2168927628081 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.50661572860554,38.2168927628081
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 59</name>
+  <description><![CDATA[<b>Station ID:</b> 59 <br><b>Longitude:</b> 3.7900907183066 <br><b>Latitude:</b> 38.4447680020239 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 49.3808828942328]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.7900907183066,38.4447680020239
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 60</name>
+  <description><![CDATA[<b>Station ID:</b> 60 <br><b>Longitude:</b> 2.74892555177212 <br><b>Latitude:</b> 38.2179906687234 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.74892555177212,38.2179906687234
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 61</name>
+  <description><![CDATA[<b>Station ID:</b> 61 <br><b>Longitude:</b> 3.33023038925603 <br><b>Latitude:</b> 38.5022995632607 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.33023038925603,38.5022995632607
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 62</name>
+  <description><![CDATA[<b>Station ID:</b> 62 <br><b>Longitude:</b> 2.18968132184818 <br><b>Latitude:</b> 38.3539045718499 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 46.9403733626008]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.18968132184818,38.3539045718499
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 63</name>
+  <description><![CDATA[<b>Station ID:</b> 63 <br><b>Longitude:</b> 2.76793927559629 <br><b>Latitude:</b> 38.649985158816 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 46.1952899898762]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.76793927559629,38.649985158816
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 64</name>
+  <description><![CDATA[<b>Station ID:</b> 64 <br><b>Longitude:</b> 2.54876728914678 <br><b>Latitude:</b> 38.3747139566112 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 43.0529302107949]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.54876728914678,38.3747139566112
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 65</name>
+  <description><![CDATA[<b>Station ID:</b> 65 <br><b>Longitude:</b> 3.62928007775918 <br><b>Latitude:</b> 38.3554453807883 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 47.920827219804]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.62928007775918,38.3554453807883
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 66</name>
+  <description><![CDATA[<b>Station ID:</b> 66 <br><b>Longitude:</b> 2.8970326827839 <br><b>Latitude:</b> 38.5336879454553 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.8970326827839,38.5336879454553
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 67</name>
+  <description><![CDATA[<b>Station ID:</b> 67 <br><b>Longitude:</b> 3.6201287060976 <br><b>Latitude:</b> 38.7403343603946 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 37.3460364843174]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.6201287060976,38.7403343603946
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 68</name>
+  <description><![CDATA[<b>Station ID:</b> 68 <br><b>Longitude:</b> 3.62477901903912 <br><b>Latitude:</b> 38.2211029378232 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 71.6895596533851]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.62477901903912,38.2211029378232
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 69</name>
+  <description><![CDATA[<b>Station ID:</b> 69 <br><b>Longitude:</b> 3.58868464222178 <br><b>Latitude:</b> 38.4127461186145 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 62.0796199830499]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.58868464222178,38.4127461186145
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 70</name>
+  <description><![CDATA[<b>Station ID:</b> 70 <br><b>Longitude:</b> 2.87966337520629 <br><b>Latitude:</b> 38.2656866868492 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 38.7689141679665]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.87966337520629,38.2656866868492
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 71</name>
+  <description><![CDATA[<b>Station ID:</b> 71 <br><b>Longitude:</b> 3.5089503172785 <br><b>Latitude:</b> 38.6299730534665 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 45.9711516470092]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.5089503172785,38.6299730534665
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 72</name>
+  <description><![CDATA[<b>Station ID:</b> 72 <br><b>Longitude:</b> 3.25844226311892 <br><b>Latitude:</b> 38.1838284907863 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.25844226311892,38.1838284907863
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 73</name>
+  <description><![CDATA[<b>Station ID:</b> 73 <br><b>Longitude:</b> 3.42036480270326 <br><b>Latitude:</b> 38.8636441114359 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 45.3334464637678]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.42036480270326,38.8636441114359
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 74</name>
+  <description><![CDATA[<b>Station ID:</b> 74 <br><b>Longitude:</b> 2.0012495466508 <br><b>Latitude:</b> 38.746568004135 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.0012495466508,38.746568004135
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 75</name>
+  <description><![CDATA[<b>Station ID:</b> 75 <br><b>Longitude:</b> 2.95063314819708 <br><b>Latitude:</b> 38.6682846497279 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 57.7996511833632]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.95063314819708,38.6682846497279
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 76</name>
+  <description><![CDATA[<b>Station ID:</b> 76 <br><b>Longitude:</b> 2.44023777032271 <br><b>Latitude:</b> 38.6180178732611 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 49.1663093352817]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.44023777032271,38.6180178732611
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 77</name>
+  <description><![CDATA[<b>Station ID:</b> 77 <br><b>Longitude:</b> 2.75963307544589 <br><b>Latitude:</b> 38.3722380602267 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 52.5331851399475]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.75963307544589,38.3722380602267
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 78</name>
+  <description><![CDATA[<b>Station ID:</b> 78 <br><b>Longitude:</b> 3.22554200654849 <br><b>Latitude:</b> 38.5298356858548 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 49.714532446513]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.22554200654849,38.5298356858548
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 79</name>
+  <description><![CDATA[<b>Station ID:</b> 79 <br><b>Longitude:</b> 2.70359581848606 <br><b>Latitude:</b> 38.8746823428664 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 49.5712954270868]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.70359581848606,38.8746823428664
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 80</name>
+  <description><![CDATA[<b>Station ID:</b> 80 <br><b>Longitude:</b> 2.22227084869519 <br><b>Latitude:</b> 38.58175009978 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.22227084869519,38.58175009978
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 81</name>
+  <description><![CDATA[<b>Station ID:</b> 81 <br><b>Longitude:</b> 2.48723894543946 <br><b>Latitude:</b> 38.8397677647881 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.48723894543946,38.8397677647881
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 82</name>
+  <description><![CDATA[<b>Station ID:</b> 82 <br><b>Longitude:</b> 3.33611117489636 <br><b>Latitude:</b> 38.3124481649138 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 63.6860228401446]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.33611117489636,38.3124481649138
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 83</name>
+  <description><![CDATA[<b>Station ID:</b> 83 <br><b>Longitude:</b> 2.83529355935752 <br><b>Latitude:</b> 38.7082903222181 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 47.7422901434073]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.83529355935752,38.7082903222181
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 84</name>
+  <description><![CDATA[<b>Station ID:</b> 84 <br><b>Longitude:</b> 3.57639166805893 <br><b>Latitude:</b> 38.2650178060867 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 65.1647060442954]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.57639166805893,38.2650178060867
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 85</name>
+  <description><![CDATA[<b>Station ID:</b> 85 <br><b>Longitude:</b> 2.2057292885147 <br><b>Latitude:</b> 38.5943431940395 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 34.5124719576978]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.2057292885147,38.5943431940395
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 86</name>
+  <description><![CDATA[<b>Station ID:</b> 86 <br><b>Longitude:</b> 2.86978548299521 <br><b>Latitude:</b> 38.4812898004893 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.86978548299521,38.4812898004893
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 87</name>
+  <description><![CDATA[<b>Station ID:</b> 87 <br><b>Longitude:</b> 3.96991395996884 <br><b>Latitude:</b> 38.2650327314623 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 55.8461374963607]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.96991395996884,38.2650327314623
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 88</name>
+  <description><![CDATA[<b>Station ID:</b> 88 <br><b>Longitude:</b> 3.78610222879797 <br><b>Latitude:</b> 38.5645904347766 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 51.2385424384461]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.78610222879797,38.5645904347766
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 89</name>
+  <description><![CDATA[<b>Station ID:</b> 89 <br><b>Longitude:</b> 3.77293812157586 <br><b>Latitude:</b> 38.9131882230286 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 52.1594156874397]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.77293812157586,38.9131882230286
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 90</name>
+  <description><![CDATA[<b>Station ID:</b> 90 <br><b>Longitude:</b> 2.35010530054569 <br><b>Latitude:</b> 38.9018743894994 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.35010530054569,38.9018743894994
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 91</name>
+  <description><![CDATA[<b>Station ID:</b> 91 <br><b>Longitude:</b> 2.2613913831301 <br><b>Latitude:</b> 38.2741666215006 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 53.7963948275988]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.2613913831301,38.2741666215006
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 92</name>
+  <description><![CDATA[<b>Station ID:</b> 92 <br><b>Longitude:</b> 3.30620385007933 <br><b>Latitude:</b> 38.3214827564079 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.30620385007933,38.3214827564079
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 93</name>
+  <description><![CDATA[<b>Station ID:</b> 93 <br><b>Longitude:</b> 2.6870329445228 <br><b>Latitude:</b> 38.9856408843771 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 44.976765468907]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.6870329445228,38.9856408843771
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 94</name>
+  <description><![CDATA[<b>Station ID:</b> 94 <br><b>Longitude:</b> 3.31351625593379 <br><b>Latitude:</b> 38.6199933101889 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 46.6679261633058]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.31351625593379,38.6199933101889
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 95</name>
+  <description><![CDATA[<b>Station ID:</b> 95 <br><b>Longitude:</b> 2.64074648497626 <br><b>Latitude:</b> 38.9373140891548 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 39.8142461689291]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.64074648497626,38.9373140891548
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 96</name>
+  <description><![CDATA[<b>Station ID:</b> 96 <br><b>Longitude:</b> 2.37538223853335 <br><b>Latitude:</b> 38.4665327023249 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 39.2820877352442]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.37538223853335,38.4665327023249
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 97</name>
+  <description><![CDATA[<b>Station ID:</b> 97 <br><b>Longitude:</b> 3.56458860263228 <br><b>Latitude:</b> 38.4068325932603 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 53.0352864140426]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.56458860263228,38.4068325932603
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 98</name>
+  <description><![CDATA[<b>Station ID:</b> 98 <br><b>Longitude:</b> 2.18718997342512 <br><b>Latitude:</b> 38.6592303242069 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 54.4820977862943]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.18718997342512,38.6592303242069
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 99</name>
+  <description><![CDATA[<b>Station ID:</b> 99 <br><b>Longitude:</b> 2.93355808313936 <br><b>Latitude:</b> 38.1523466168437 <br><b>Presence:</b> 1 <br><b>Abundance:</b> 50.530042267305]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+2.93355808313936,38.1523466168437
+    </coordinates>
+  </Point>
+</Placemark>
+<Placemark>
+  <name>site 100</name>
+  <description><![CDATA[<b>Station ID:</b> 100 <br><b>Longitude:</b> 3.02301091980189 <br><b>Latitude:</b> 38.5728670582175 <br><b>Presence:</b> 0 <br><b>Abundance:</b> NA]]></description>
+  <styleUrl>#style1</styleUrl>
+  <Point>
+    <coordinates>
+3.02301091980189,38.5728670582175
+    </coordinates>
+  </Point>
+</Placemark>
+</Document>
+</kml>
