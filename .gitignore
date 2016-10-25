@@ -38,3 +38,6 @@ output/
 
 # Input files from remote servers
 wmop.nc
+
+# Readme html
+README.html
