@@ -56,7 +56,7 @@ leaflet() %>%
 #----------------------------------------------
 # Part 2: 3D Plot while doing some map algebra
 #----------------------------------------------
-myPal <- colorRampPalette(brewer.pal(9, 'Blues'))  # palette
+myPal <- colorRampPalette(brewer.pal(9, 'Blues'), alpha=TRUE)  # palette
 plot3D(bat*(-1), col=myPal, rev=TRUE, specular="black")  # plot 3d with rgl
 
 
@@ -73,6 +73,7 @@ plot(models)
 
 # Assess correlation between characteristics using pearson
 cor<-layerStats(models,"pearson", na.rm=T)
+cor
 
 # Hillshade
 slope <- subset(models, "slope")  # select slope
@@ -80,15 +81,17 @@ aspect <- subset(models, "aspect")  # select slope
 hill <- hillShade(slope, aspect, 45, 270)
 plot(hill, col = grey(0:100/100), legend = FALSE)
 plot(bat, col = rainbow(25, alpha=0.35), add=TRUE)
+#----------------------------------------------
+
+
 
 #----------------------------------------------
 # Part 4: Export your data
 #----------------------------------------------
 
-### Save single raster layer
-writeRaster(slope, filename="output/slope.grd", overwrite=TRUE)  # save binary file
-
-KML(bat, "output/bat.kml", col = myPal(100), overwrite = TRUE)
+### Save data
+writeRaster(slope, filename="output/slope.grd", overwrite=TRUE)  # save binary file for slope
+KML(bat, "output/bat.kml", col = myPal(100), overwrite = TRUE)  # save KML file for bathymetry
 
 ## EERCISE: Export your multiband raster in netCDF format
 

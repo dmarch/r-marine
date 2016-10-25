@@ -27,6 +27,7 @@ library(httr)
 library(ncdf4)
 library(maptools)
 library(dygraphs)
+library(zoo)
 #----------------------------------------------
 
 
@@ -80,7 +81,7 @@ nc_close(nc)  # closes netcdf
 ### Import multiband netCDF
 wmop <- brick("data/wmop.nc", varname="temp", stopIfNotEqualSpaced=FALSE)  # compare with raster()
 plot(wmop)
-animate(wmop)
+#animate(wmop)
 
 ### Map algebra
 cellStats(wmop, "mean")  # calculate mean for each layer
@@ -90,7 +91,6 @@ plot(wmop.mean)
 plot(wmop.sd)
 
 ### Consider temporal aggregations
-library(zoo)
 getZ(wmop)  # get time values for each layer
 wmop.daily.mean <- zApply(wmop, by=as.Date, fun=mean, name="day")  # calculate daily means
 plot(wmop.daily.mean)
@@ -115,6 +115,7 @@ plot(wmop.mean)
 plot(stations,add=TRUE)
 stations <- extract(wmop.mean, stations, method="simple", sp=TRUE)
 names(stations)[6] <- "temperature"
+head(stations)
 #----------------------------------------------
 
 
@@ -122,7 +123,7 @@ names(stations)[6] <- "temperature"
 # Part 5: Get and Display Time Series from ROMS
 #--------------------------------------------------
 
-# NetcdfSubset service has a hidden gem: you can extract a time series for a specific
+# NetcdfSubset service has a hidden feature: you can extract a time series for a specific
 # station. The web GUI does not provide such option, so you can inspect the example
 # provided bellow or check the documentation from unidata at:
 # "http://www.unidata.ucar.edu/software/thredds/current/tds/reference/NetcdfSubsetServiceReference.html"
