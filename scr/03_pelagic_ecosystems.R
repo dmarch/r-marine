@@ -143,7 +143,7 @@ GET(ncss.url, write_disk("data/wmop_ts.csv", overwrite = TRUE))
 # Read data and convert to zoo class
 wmop.ts <- read.table("data/wmop_ts.csv", sep=",", dec=".", header=TRUE)  # read csv
 wmop.ts$datetime <- as.POSIXct(wmop.ts$date, format="%Y-%m-%dT%H:%M:%SZ")  # define time class
-plot(wmop.ts$datetime, wmop.ts$temp.unit.Celsius., type="l")  # plot time series of temperature
+plot(wmop.ts$datetime, wmop.ts$temp.unit.Celsius., type="l", lwd=2)  # plot time series of temperature
 
 # Plot Time series using Dygraphs
 wmop.ts <- zoo(wmop.ts, order.by=wmop.ts$datetime)  # convert to zoo
