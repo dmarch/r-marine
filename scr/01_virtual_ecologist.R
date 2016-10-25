@@ -70,11 +70,6 @@ plot(box)
 points(pts, col="red", pch=19)
 #----------------------------------------------
 
-#####################################################
-# EXERCISE: change "n" and "type" and plot the results
-#####################################################
-
-
 
 #----------------------------------------------
 # Part 4: Simulate presence/absence data
@@ -91,6 +86,7 @@ data$presence <- rbinom(n, size=1, prob=0.6)  # 60% probability for presence
 hist(data$presence)  # histogram
 n.pre <- length(which(data$presence == 1))  # count number of presences
 head(data)
+#----------------------------------------------
 
 
 #----------------------------------------------
@@ -105,6 +101,7 @@ sd(val)  # standard deviation
 data$abundance <- NA  # create new column with NA data
 data$abundance[data$presence == 1] <- val  # assign values on those locations where there is a presence
 head(data)
+#----------------------------------------------
 
 
 #----------------------------------------------

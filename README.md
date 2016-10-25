@@ -6,7 +6,10 @@ Source code and materials presented in the course "Using R to Work with Marine S
 ### Requirements
 * R-studio with R >= 3.1.0
 * R libraries: raster, sp, rgdal, maptools, leaflet, dygraphs, RColorBrewer, rasterVis, rgl, httr, ncdf4, zoo
-* Other software: Google Earth, notepadd++, QGIS (optional)
+* Other software: Google Earth, notepadd++, QGIS (optional), Adobe acrobat
+
+### Overview
+It is recommended to check the slides for each lesson while executing the code. Note that this course has been originally conceived to be conducted presentially. It is assumed that the student is familiar with R and R-studio
 
 
 ### Course evaluation form
