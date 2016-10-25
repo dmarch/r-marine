@@ -21,7 +21,10 @@
 #----------------------------------------------
 library(raster)
 library(leaflet)
+library(rgdal)
 library(RColorBrewer)
+library(rasterVis)
+library(rgl)
 #----------------------------------------------
 
 
@@ -29,28 +32,17 @@ library(RColorBrewer)
 # Part 1: Import bathymetry from EMODnet
 #----------------------------------------------
 
-
 ### Import EMODNET Bathymetry (see download instructions on slides)
 bat <- raster("data/emodnet-mean.tif")  # read raster data
-
 
 ### Inspect data
 bat
 summary(bat)
-
-
-### Viualize data
-
-# plot using defaults
 plot(bat)  
 
-
-
-
-### Plot with leaflet
+### Create map
 pal <- colorNumeric(c("#FFFFCC", "#41B6C4", "#0C2C84"), domain=c(0, max(values(bat), na.rm=T)),
                     na.color = "transparent")
-
 leaflet() %>%
   addProviderTiles("Esri.OceanBasemap") %>%  # Base map
   addRasterImage(bat, colors = pal, opacity = 0.8) %>%
@@ -59,29 +51,37 @@ leaflet() %>%
 
 
 
-### Terrain analysis
-
-# Slope
-# Hillshade
-# Roughness
-
-x <- terrain(bat, opt=c("slope", "aspect", "TPI", "TRI", "roughness", "flowdir"), unit='degrees')
-plot(x)
+#----------------------------------------------
+# Part 2: 3D Plot while doing some map algebra
+#----------------------------------------------
+myPal <- colorRampPalette(brewer.pal(9, 'Blues'))  # palette
+plot3D(bat*(-1), col=myPal, rev=TRUE, specular="black")  # plot 3d with rgl
 
 
 
-### PCA between bands or pearson to assess cross-correlation
+#----------------------------------------------
+# Part 3: Bathymetric Terrain Modeling
+#----------------------------------------------
 
-plot(bat*(-1), breaks=esri.ocean(scale="medium",breaks=TRUE),
-     col=esri.ocean(scale="medium", alpha=0.5))
+# Calculate terrain characteristic from bathymetry
+models <- terrain(bat, opt=c("slope", "aspect", "TPI", "TRI", "roughness", "flowdir"), unit='degrees')
+class(models)
+models
+plot(models)
+
+# Assess correlation between characteristics using pearson
+cor<-layerStats(models,"pearson", na.rm=T)
 
 
-### Plot 3D
-library(rasterVis)
-library(rgl)
 
-myPal <- colorRampPalette(brewer.pal(9, 'Blues'))
-plot3D(bat*(-1), col=myPal, rev=TRUE, specular="black")
+#----------------------------------------------
+# Part 4: Export your data
+#----------------------------------------------
 
+### Save multiband raster in netCDF
+writeRaster(models, filename="output/terrain.nc", format="CDF", overwrite=TRUE) 
+prova <- brick("output/terrain.nc")
 
-### Export data
+# save multi-layer binary file
+writeRaster(models, filename="output/terrain.grd", bandorder="BIL", overwrite=TRUE) 
+prova <- brick("output/terrain.grd")

@@ -129,9 +129,7 @@ map  # plot map
 #----------------------------------------------
 # Part 7: Export your new generated data
 #----------------------------------------------
-
 #### Sampling stations (POINTS)
-
 # Export to CSV
 write.table(data, "output/stations.csv", sep=";", dec=",", row.names=FALSE)  # to csv
 
@@ -152,9 +150,7 @@ kmlPoints(obj = data,
                                "<br><b>Abundance:</b>", data$abundance)              
           )
 
-
 #### Study area (POLYGONS)
-
 # Export to shapefile
 box <- SpatialPolygonsDataFrame(box, data=data.frame(area=1))  # convert to SPDF
 writePolyShape(box, "output/area")
