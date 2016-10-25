@@ -78,10 +78,9 @@ cor<-layerStats(models,"pearson", na.rm=T)
 # Part 4: Export your data
 #----------------------------------------------
 
-### Save multiband raster in netCDF
-writeRaster(models, filename="output/terrain.nc", format="CDF", overwrite=TRUE) 
-prova <- brick("output/terrain.nc")
+### Save single raster layer
+slope <- subset(models, "slope")  # select slope
+writeRaster(slope, filename="output/slope.grd", overwrite=TRUE)  # save binary file
 
-# save multi-layer binary file
-writeRaster(models, filename="output/terrain.grd", bandorder="BIL", overwrite=TRUE) 
-prova <- brick("output/terrain.grd")
+## EERCISE: Export your multiband raster in netCDF format
+
