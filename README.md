@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/71837727.svg)](https://zenodo.org/badge/latestdoi/71837727)
+
 #![r-marine](https://github.com/dmarch/r-marine/blob/master/docs/heading.png?raw=true)
 
 Source code and materials presented in the course "Using R to Work with Marine Spatial Data"
